@@ -34,13 +34,31 @@ This dashboard enables organizations to:
 - Plotly
 - Streamlit
 
-## ▶️ Run Locally
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+# 🎯 Important samajh lo
+
+| Section | Format |
+|--------|-------|
+| Commands | ```bash ``` |
+| Images | normal markdown (NO ``` ) |
+
+---
+
+# 🔥 PRO VERSION (best look)
+
+```markdown
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/Figure1.PNG)
-![Agent Analysis](Images/Figure2.PNG)
-![Insights](Images/Figure3.PNG)
+<p align="center">
+  <img src="Images/Figure1.PNG" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Images/Figure2.PNG" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Images/Figure3.PNG" width="800"/>
+</p>
