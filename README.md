@@ -46,19 +46,8 @@ This dashboard enables organizations to:
 
 ---
 
-# 🔥 PRO VERSION (best look)
+## ▶️ Run Locally
 
-```markdown
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="Images/Figure1.PNG" width="800"/>
-</p>
-
-<p align="center">
-  <img src="Images/Figure2.PNG" width="800"/>
-</p>
-
-<p align="center">
-  <img src="Images/Figure3.PNG" width="800"/>
-</p>
+```bash
+pip install -r requirements.txt
+streamlit run app.py
