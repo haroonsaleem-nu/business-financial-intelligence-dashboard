@@ -37,10 +37,10 @@ This dashboard enables organizations to:
 
 ---
 
-# 🎯 Important samajh lo
+# 🎯 Pictures
 
 
 
 ---
-<p align="center"> <img src="Images/Figure1.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure2.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure3.PNG" width="800"/> </p> 
+<p align="center"> <img src="Images/Figure1.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure2.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure3.PNG.jpg" width="800"/> </p> 
 
