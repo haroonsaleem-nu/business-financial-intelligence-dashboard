@@ -39,3 +39,8 @@ This dashboard enables organizations to:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## 📸 Dashboard Preview
+
+![Dashboard](Images/Figure1.PNG)
+![Agent Analysis](Images/Figure2.PNG)
+![Insights](Images/Figure3.PNG)
