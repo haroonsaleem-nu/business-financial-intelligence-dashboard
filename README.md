@@ -45,6 +45,7 @@ This dashboard enables organizations to:
 | Images | normal markdown (NO ``` ) |
 
 ---
+<p align="center"> <img src="Images/Figure1.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure2.PNG" width="800"/> </p> <p align="center"> <img src="Images/Figure3.PNG" width="800"/> </p> ```
 
 ## ▶️ Run Locally
 
